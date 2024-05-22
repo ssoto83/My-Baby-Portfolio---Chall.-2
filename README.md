@@ -1,2 +1,2 @@
-# My-Baby-Portfolio---Chall.-2
+# My-baby-Portfolio.Chall2
 Creating a Portfolio
