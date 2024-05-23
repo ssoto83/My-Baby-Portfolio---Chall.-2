@@ -1,0 +1,62 @@
+.header {
+    padding: 30px;
+    text-align: center;
+    background: rgb(208, 170, 210);
+}
+
+.nav {
+    float: right;
+   }
+  
+ul {
+       list-style-type: none;
+}
+
+ul.mywork {
+    float: left;
+}
+
+li {
+    font-size: 22px;
+    font-style: Tahoma;
+    float: right;
+    margin-right: 80px;
+    }
+
+.pic {
+    width: 250px;
+    float: left;
+}
+
+.name {
+    clear: left;
+    display: flex;
+    justify-content: flex;
+    padding: 10px;
+    padding-left: 35px;
+    }
+
+.name li {
+    margin-left: 100px;
+    justify-content: flex-end;
+}
+
+.about-me {
+    float: center;
+    text-align: center;
+    width: 100%;
+    padding: 40px;
+    font-size: 50px;
+   }
+
+   .sidebar {
+    float: left;
+    width: 18%; 
+    background: blueviolet; 
+    padding: 20px; 
+}
+
+.main-content {
+    margin-top: 80px;
+    font-style: normal;
+}
