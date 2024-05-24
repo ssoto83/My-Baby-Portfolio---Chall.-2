@@ -1,31 +1,30 @@
 .header {
-    padding: 30px;
+    padding: 50px;
     text-align: center;
-    background: rgb(208, 170, 210);
+    background: rgb(145, 194, 241);
 }
 
 .nav {
     float: right;
+    display: flex;
    }
-  
-ul {
-       list-style-type: none;
-}
 
-ul.mywork {
-    float: left;
+ul {
+    list-style-type: none;
 }
 
 li {
-    font-size: 22px;
+    font-size: 32px;
     font-style: Tahoma;
     float: right;
-    margin-right: 80px;
-    }
+    margin-right: 22px;
+}
 
 .pic {
-    width: 250px;
+    width: 150px;
     float: left;
+    padding: 15px;
+    border: 3px solid black;
 }
 
 .name {
@@ -33,8 +32,8 @@ li {
     display: flex;
     justify-content: flex;
     padding: 10px;
-    padding-left: 35px;
-    }
+    padding-left: 10px;
+}
 
 .name li {
     margin-left: 100px;
@@ -47,16 +46,43 @@ li {
     width: 100%;
     padding: 40px;
     font-size: 50px;
-   }
+}
 
-   .sidebar {
+.sidebar {
     float: left;
-    width: 18%; 
-    background: blueviolet; 
-    padding: 20px; 
+    width: 18%;
+    background: rgb(235, 134, 67);
+    padding: 20px;
+    border-right: 8px solid black;
+    margin: 20px;
+    font-size: 30px;
 }
 
 .main-content {
     margin-top: 80px;
     font-style: normal;
+}
+
+.about {
+    font-style: Tahoma;
+    font-size: 36px;
+    padding-top: 40px;
+}
+
+.mywork {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    padding-left: 200px;
+}
+
+#work {
+    display: flex;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    min-height: 200px;
+    font-size: xx-large;
 }
