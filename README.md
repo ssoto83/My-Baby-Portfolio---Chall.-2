@@ -1,5 +1,5 @@
 # My-Portfolio.Chall2
-On this challenge I created my own portfolios for potential employers / User to review based on the requirements below:
+On this challenge I created my own portfolio for potential employers / User to review based on the requirements below:
 
 The User Story:
 
